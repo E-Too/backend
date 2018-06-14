@@ -1,0 +1,94 @@
+Status,mWaterID,SiteUptime,SensorUptime,location,barcode,County
+2,7668342,0.88,0.85,Isiolo - Merti,5072,Isiolo
+1,7668335,0.91,0.99,Turkana - Borehole 9,5070,Turkana
+1,7668328,0.73,0.99,Turkana - Napuu 3,5074,Turkana
+3,7668311,0.35,0.99,Turkana - Kapedo,5078,Turkana
+1,7668304,0.81,1,Marsabit - Kinisa,5086,Marsabit
+1,7668294,0.4,1,Marsabit - Dadacha Elele Site,5083,Marsabit
+3,7668287,0.15,1,Isiolo - Urura,5081,Isiolo
+1,7668270,0.54,1,Marsabit - Dosa Wachu,6043,Marsabit
+1,7668782,0.73,1,Marsabit - Kubi Qallo II,6036,Marsabit
+1,5691959,0.64,0.99,Marsabit - Jaldesa ,6039,Marsabit
+1,5691942,0.72,0.84,Isiolo - Ngapawoi,6042,Isiolo
+5,5691935,0.09,0.99,Garissa - Skanska,6046,Garissa
+5,5691911,0.49,0.99,Garissa - Baraki,6050,Garissa
+5,5691904,0.38,1,Garissa - Kumahumato,6051,Garissa
+1,5691894,0.37,1,Wajir - Hadado,6053,Wajir
+3,5691887,0.57,1,Garissa - Bahuri,6056,Garissa
+1,5691870,0.97,1,Wajir - Adhi Masajida Central,6057,Wajir
+5,5691863,0.74,1,Isiolo - Garba Tulla,6060,Isiolo
+1,5691849,0.91,0.99,Turkana - Borehole 1 A,6063,Turkana
+1,5691832,0.98,1,Garissa - Dertu,6064,Garissa
+1,5691825,0.65,1,Garissa - Shantabak,6065,Garissa
+5,5691818,0.21,1,Garissa - Balich,6066,Garissa
+5,5691801,0.43,0.97,Garissa - Abakhaile,6068,Garissa
+1,5691791,0.89,1,Marsabit - Dirib Gombo,6069,Marsabit
+3,5691784,0.14,0.99,Isiolo - Kilimani,6070,Isiolo
+2,13884671,0.73,1,Isiolo - Garfasa,6071,Isiolo
+1,5691760,0.99,0.94,Turkana - Lorugum,6074,Turkana
+1,5691753,0.47,1,Wajir - Arbajahan,6075,Wajir
+4,5691739,0.32,1,Garissa - Alikune,6085,Garissa
+3,5691722,0.46,1,Marsabit - Odda II,6089,Marsabit
+1,5691698,0.86,1,Turkana - St. Michaels,6097,Turkana
+3,5691667,0.37,1,Marsabit - Laisamis,6101,Marsabit
+5,5691643,0.63,1,Marsabit - Ilbarok,6103,Marsabit
+3,5691612,0.43,1,Turkana - Lokori,6029,Turkana
+1,5691605,0.62,1,Marsabit - Furmasa Site,6011,Marsabit
+5,5691595,0,1,Isiolo - Alango,6000,Isiolo
+1,5691588,0.94,1,Turkana - Lokichaa 1,6002,Turkana
+1,5691571,0.78,1,Turkana - Loturerei,6008,Turkana
+4,5691557,0.29,1,Isiolo - Yamicha,6010,Isiolo
+1,5691540,0.76,1,Turkana - St. James,6016,Turkana
+5,5691533,0,1,Turkana - Songot,6025,Turkana
+1,5691526,0.64,1,Turkana - Lokichaa 2,6013,Turkana
+3,5691519,0.19,0.89,Isiolo - Dadacha Lafe,6035,Isiolo
+2,5691502,0.73,1,Isiolo - Attir,5393,Isiolo
+4,5691492,0.01,0.99,Isiolo - Duma,6026,Isiolo
+1,21082890,0.8,0.92,Wajir - Sarman,7310,Wajir
+1,28543998,0.23,1,Turkana - Kakimera Community Borehole ,7176,Turkana
+1,480620,0.99,1,Turkana - Borehole 5,7509,Turkana
+1,26956857,0.99,1,Isiolo - Merti 1 BH,7159,Isiolo
+1,28543936,0.24,1,Turkana - Katilu Community Borehole 1,7275,Turkana
+1,20823184,0.8,1,Marsabit - Kargi Dakhane,7318,Marsabit
+1,13884664,0.28,0.99,Turkana - Turkwel,7314,Turkana
+3,21082883,0.4,1,Wajir - Jayjay,7238,Wajir
+2,28543974,0.78,0.97,Turkana - Morulem Community Borehole ,7293,Turkana
+3,5691708,0.45,0.63,Wajir - Nurgows,7322,Wajir
+4,20823287,0.87,0.89,Marsabit - Golole Borehole ,7317,Marsabit
+4,5691681,0.75,0.74,Wajir - Abdiwako,7294,Wajir
+3,10388457,0.62,0.86,Turkana - Nakwamekwi Borehole 7,7186,Turkana
+1,5691564,0.44,0.89,Marsabit - Kubi Qalo Site,7312,Marsabit
+1,21082780,0.78,1,Wajir - Biyamadhow,7321,Wajir
+1,8037020,0.49,1,Wajir - Dulgub,7231,Wajir
+1,674977,0.2,1,Garissa - Gurufa,7158,Garissa
+1,5691928,0.88,1,Turkana - Borehole 6,7514,Turkana
+5,20823218,0.46,1,Marsabit - Dukana Borehole,7240,Marsabit
+1,8435350,0.78,1,Isiolo - Goth Rupa,7175,Isiolo
+1,5691650,0.92,0.82,Wajir - Asal Habaswein,7239,Wajir
+1,5691746,0.32,0.84,Marsabit - Bori,7336,Marsabit
+2,28543943,0.77,1,Turkana - Lopur Community Borehole ,7511,Turkana
+1,20823191,0.27,1,Marsabit - Elboji Borehol,7287,Marsabit
+1,8415837,0.36,1,Wajir - Jira,7245,Wajir
+1,8435343,0.65,1,Isiolo - Bullesa,7167,Isiolo
+1,20823177,0.98,1,Marsabit - Logologo Borehole,7212,Marsabit
+2,26956871,0.23,0.98,Isiolo - Chiefs Camp IWASCO BH,7518,Isiolo
+1,5691629,0.31,1,Turkana - Lorengerup,7173,Turkana
+1,10388433,0.8,1,Turkana - Nakwamekwi Borehole 2C,7515,Turkana
+1,20823139,0.4,0.98,Marsabit - Kamboe Borehole ,7224,Marsabit
+4,8435288,0.82,1,Marsabit - Dololo Dokatu ,7223,Marsabit
+1,480613,0.99,1,Turkana - Borehole 4,7165,Turkana
+1,5691636,0.25,0.99,Marsabit - Walda,7277,Marsabit
+1,5691674,0.77,1,Wajir - Griftu,7202,Wajir
+1,28543967,0.97,1,Turkana - Lokori IDP Borehole ,7177,Turkana
+2,21082900,0.14,1,Wajir - Berjanai,7197,Wajir
+1,8435336,0.99,1,Isiolo - Bisan Biliqo,7198,Isiolo
+1,480699,0.95,1, Turkana - Napuu Borehole 5,7187,Turkana
+1,21082869,0.75,0.9,Wajir - Garseykoftu,7210,Wajir
+4,20823249,0.2,1,Marsabit - Marime Borehole ,7248,Marsabit
+1,21082852,0.89,1,Wajir-Abakorey,7303,Wajir
+3,20823270,0.28,1,Marsabit - Uran Borehole ,7326,Marsabit
+3,20823225,0.34,1,Marsabit - Elhadi Borehole,7209,Marsabit
+5,480682,0.9,1,Turkana - Nabulon Borehole 8,7205,Turkana
+1,28543950,0.97,1,Turkana - Nadapal IRC Borehole 1,7199,Turkana
+2,5691715,0.65,1,Marsabit - Elgade,7306,Marsabit
+1,480606,0.96,1,Turkana - Borehole 3,7194,Turkana
